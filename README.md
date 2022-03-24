@@ -26,3 +26,9 @@ This is the assignment solution for the datascience role at Arya.ai. I have atte
 * VScode
 * jupyter notebook
 * etc.
+
+# Key Steps:
+* Used RandomForest Classifier for feature selection.
+* Selected top 30 features with respect to their feature importance.
+* For metric I have considered Binary CrossEntropy and AUC score.
+* The best model I get is Xgboost.
