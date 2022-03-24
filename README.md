@@ -10,19 +10,19 @@ This is the assignment solution for the datascience role at Arya.ai. I have atte
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/90651409/159995520-7572ceeb-8081-4703-b510-35e807a69a7f.svg)
 # Methods Used
 * Random
-“*” KNN
-“*” Naive Bayes
-“*” Logistic Regression
-“*” DecisionTree
-“*” Random Forest
-“*” xgboost
+* KNN
+* Naive Bayes
+* Logistic Regression
+* DecisionTree
+* Random Forest
+* xgboost
 # Technologies
-“*” Python
-“*” Numpy
-“*” Pandas
-“*” Matplotlib
-“*” Seaborn
-“*” Scikit learn
-“*” VScode
-“*” jupyter notebook
-“*” etc.
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit learn
+* VScode
+* jupyter notebook
+* etc.
