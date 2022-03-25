@@ -23,7 +23,7 @@ This is the assignment solution for the datascience role at Arya.ai. I have atte
 * Matplotlib
 * Seaborn
 * Scikit learn
-* VScode
+* Pycharm
 * jupyter notebook
 * etc.
 
